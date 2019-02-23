@@ -4,3 +4,5 @@ messages, using the Model View Controller structure.
 
 I made use of Immediately Invoked 
 Function Expressions, to create different modules.
+
+https://vincentrohde.github.io/mvc-chat-simulation/
