@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>MVC</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="utf-8">
+    </head>
+    <body>
+       
+        <h1>Messages</h1>
+        <ul></ul>
+        <textarea id="input" cols="40" rows="5"></textarea><br>
+        <input type="submit" value="Abschicken">
+        <script id="message-template" type="text/html">
+            <li>
+                <p class="text"></p>
+            </li>
+        </script>
+        <script src="src/models/messages.js"></script>
+        <script src="src/controllers/input/input.js"></script>
+        <script src="src/controllers/message/message.js"></script>
+        <script src="src/views/message-view.js"></script>
+        <script src="script.js"></script>
+    </body>
+</html>
