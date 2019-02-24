@@ -1,5 +1,5 @@
 # MVC Chat Simulation
-A Project for my second semester in university. The task was to display 
+A JavaScript project for my second semester in university. The task was to display 
 messages, using the Model View Controller structure.
 
 I made use of Immediately Invoked 
