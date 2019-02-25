@@ -25,4 +25,4 @@ Now, open the `index.html` inside your browser.
 
 ## Built With
 
-- [jQuery](http://www.dropwizard.io/1.0.2/docs/) - UI library
+- [jQuery](https://github.com/jquery/jquery) - UI library
